@@ -1,4 +1,5 @@
 % medical-diagnosis.pl %
+% Program by Devansh Mistry %
 go :-
 write('What is the patient''s name? '),
 read(Patient),get_single_char(Code),
