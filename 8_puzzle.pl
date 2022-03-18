@@ -1,5 +1,6 @@
 /* 8_puzzle.pl */
-
+%%% Program combined by Devansh Mistry
+%%% A* to 8 puzzle
 %%%     A* Algorithm
  
 
